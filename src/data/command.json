@@ -1,0 +1,51 @@
+[
+  {
+    "command": "play",
+    "description": "Play a song from a URL or search for a song."
+  },
+  {
+    "command": "pause",
+    "description": "Pause the current song."
+  },
+  {
+    "command": "resume",
+    "description": "Resume the paused song."
+  },
+  {
+    "command": "skip",
+    "description": "Skip the current song."
+  },
+    {
+    "command": "resume",
+    "description": "Resume the paused song."
+  },
+  {
+    "command": "skip",
+    "description": "Skip the current song."
+  },
+    {
+    "command": "resume",
+    "description": "Resume the paused song."
+  },
+  {
+    "command": "skip",
+    "description": "Skip the current song."
+  },
+  
+    {
+    "command": "resume",
+    "description": "Resume the paused song."
+  },
+  {
+    "command": "skip",
+    "description": "Skip the current song."
+  },
+    {
+    "command": "resume",
+    "description": "Resume the paused song."
+  },
+  {
+    "command": "skip",
+    "description": "Skip the current song."
+  }
+]

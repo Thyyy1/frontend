@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1880b47.css",
+    "main.js": "/static/js/main.346d9883.js",
+    "static/media/piu1.png": "/static/media/piu1.2ac1e78c1a3dd792402f.png",
+    "static/media/piu2.png": "/static/media/piu2.d3364a7717c1b426d135.png",
+    "index.html": "/index.html",
+    "main.e1880b47.css.map": "/static/css/main.e1880b47.css.map",
+    "main.346d9883.js.map": "/static/js/main.346d9883.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1880b47.css",
+    "static/js/main.346d9883.js"
+  ]
+}
