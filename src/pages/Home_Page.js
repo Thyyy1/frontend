@@ -41,7 +41,7 @@ function Home() {
             </p>
             <button 
               onClick={handleButtonClick}
-              className="px-6 py-3 mt-6 text-xl font-bold text-white transition duration-300 ease-in-out transform rounded-lg bg-button-color font-Lato hover:bg-purple-600 hover:text-white hover:scale-105">
+              className="px-6 py-3 mt-6 text-xl font-bold text-white transition duration-300 ease-in-out transform rounded-lg bg-purple font-Lato hover:bg-purple-600 hover:text-white hover:scale-105">
               Add to server
             </button>
         </div>      

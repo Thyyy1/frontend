@@ -6,10 +6,7 @@ function Sidebar() {
 
   return (
     <div className="sticky top-0 flex flex-col w-full px-4 text-white bg-gray-800">
-      <h4 className="mt-2 mb-2 ml-4 text-xl font-semibold text-description-color md:mt-0">
-        Table of Contents
-      </h4>
-      <nav className="mt-16 space-y-2">
+      <nav className="mt-20 space-y-2">
         <NavLink
           to="/about"
           exact
@@ -17,7 +14,7 @@ function Sidebar() {
           activeClassName="text-purple-600"
         >
           <span
-            className="ml-6 text-4xl font-ibm font-semibold hover:text-white"
+            className="ml-6 text-4xl font-semibold font-ibm hover:text-white"
             style={{
               color: location.pathname === "/about" ? "rgb(136, 58, 225)" : "",
             }}
@@ -31,10 +28,10 @@ function Sidebar() {
         <NavLink
           to="/CommandList"
           className="relative flex items-center"
-          activeClassName="text-purple-600 border border-violet-600"
+          activeClassName="text-purple-600 border border-black"
         >
           <span
-            className="ml-6 text-4xl font-ibm font-semibold hover:text-white"
+            className="ml-6 text-4xl font-semibold font-ibm hover:text-white"
             style={{
               color:
                 location.pathname === "/CommandList" ? "rgb(136, 58, 225)" : "",
@@ -52,7 +49,7 @@ function Sidebar() {
           activeClassName="text-purple-600"
         >
           <span
-            className="ml-6 text-4xl font-ibm font-semibold hover:text-white"
+            className="ml-6 text-4xl font-semibold font-ibm hover:text-white"
             style={{
               color: location.pathname === "/Team" ? "rgb(136, 58, 225)" : "",
             }}

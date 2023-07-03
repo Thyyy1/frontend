@@ -1,31 +1,31 @@
 [
   {
-    "command": "play",
-    "description": "Play a song from a URL or search for a song."
+    "command": "/academic-spp",
+    "description": "Information about academic-support-unit"
   },
   {
-    "command": "pause",
-    "description": "Pause the current song."
+    "command": "/alumni",
+    "description": "Information about alumni affairs"
   },
   {
-    "command": "resume",
-    "description": "Resume the paused song."
+    "command": "/ARC",
+    "description": "Information about alumni affairs"
   },
   {
-    "command": "skip",
-    "description": "Skip the current song."
+    "command": "/BAF",
+    "description": "Information about academic-support-unit"
   },
     {
     "command": "resume",
-    "description": "Resume the paused song."
+    "description": "Information about alumni affairs"
   },
   {
     "command": "skip",
-    "description": "Skip the current song."
+    "description": "Information about alumni affairs"
   },
     {
     "command": "resume",
-    "description": "Resume the paused song."
+    "description": "Information about academic-support-unit"
   },
   {
     "command": "skip",

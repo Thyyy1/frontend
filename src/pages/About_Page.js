@@ -9,8 +9,8 @@ const AboutPage = () => {
       <div className="sticky top-0 z-10">
         <Navigation />
       </div>
-      <div className="flex flex-col px-4 my-16 md:flex-row md:px-14">
-        <div className="w-full md:w-1/4">
+      <div className="flex flex-col px-4 mt-16 md:flex-row md:px-14">
+        <div className="w-full mt-12 md:w-1/4">
           <Sidebar />
         </div>
         <div className="relative w-full py-8 pl-16 pr-32 md:w-3/4 md:py-0">
@@ -19,10 +19,10 @@ const AboutPage = () => {
             <h3 className="mb-6 text-4xl font-bold uppercase">
               Welcome to PIU Discord bot
             </h3>
-            <p className="pr-32 mb-6 mr-32 text-2xl leading-normal uppercase text-description-color">
+            <p className="pr-32 mb-6 mr-32 text-2xl leading-normal uppercase font-ibm text-description-color">
               Here is the full documentation of PIU discord bot instructions, configuration, and more. Integrate the PIU Discord bot into your Discord server and get started.
             </p>
-            <h3 className="mb-4 text-4xl font-bold">Purpose</h3>
+            <h3 className="mb-4 text-4xl font-bold uppercase font-ibm">Purpose</h3>
             <p className="pr-32 mb-6 mr-32 text-2xl leading-normal uppercase text-description-color">
               The purpose of the PIU Discord bot is to provide users with a wide
               range of features, such as music playback, moderation, and various
